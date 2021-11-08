@@ -1,0 +1,11 @@
+.places__place {
+  display: grid;
+  width: 984px;
+  grid-template-columns: fit-content(460px) 1fr;
+  gap: 48px 40px;
+  margin-bottom: 80px;
+}
+
+.places__place:last-of-type {
+  margin-bottom: 0;
+}
