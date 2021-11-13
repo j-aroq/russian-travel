@@ -1,12 +1,15 @@
 .cover__overlay {
-  width: 1184px;
-  min-height: 740px;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 1184px;
+  padding-top: calc(50%*0.625 - 125px);
+  padding-bottom: calc(50%*0.625 - 125px);
   background: #2A2C2F;
   opacity: 0.3;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 1;
 }
 
 .cover__overlay:hover {
