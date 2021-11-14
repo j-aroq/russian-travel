@@ -9,16 +9,14 @@
 
 @media (max-width: 1023px) {
   .intro {
+    max-width: calc(100vw - 48px);
     margin: 88px 0;
-    padding-left: 24px;
-    padding-right: 24px;
   }
 }
 
 @media (max-width: 767px) {
   .intro {
+    max-width: calc(100vw - 32px);
     margin: 64px 0;
-    padding-left: 16px;
-    padding-right: 16px;
   }
 }

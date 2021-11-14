@@ -10,9 +10,10 @@
 }
 
 @media (max-width: 767px) {
-  .places__place {
+  .cover__subtitle {
     margin-top: 16px;
     font-size: 14px;
     line-height: 114%;
-    }
+    max-width: 288px;
+  }
 }

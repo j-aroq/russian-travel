@@ -15,3 +15,10 @@
 .cover__overlay:hover {
   opacity: 0.8;
 }
+
+@media (max-width: 767px) {
+  .cover__overlay {
+    padding-top: calc(50%*0.625 - 67px);
+    padding-bottom: calc(50%*0.625 - 67px);
+  }
+}
