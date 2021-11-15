@@ -9,9 +9,8 @@
   margin-right: 0;
 }
 
-.footer__link a {
-  text-decoration: none;
-  color: white;
+.footer__link:hover {
+  opacity: 0.5;
 }
 
 @media (max-width: 767px) {

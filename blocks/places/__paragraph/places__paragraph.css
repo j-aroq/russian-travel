@@ -19,5 +19,6 @@
 @media (max-width: 767px) {
   .places__paragraph {
     padding-left: 16px;
+    padding-right: 16px;
   }
 }

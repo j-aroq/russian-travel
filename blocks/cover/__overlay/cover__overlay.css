@@ -8,12 +8,11 @@
   max-width: 1184px;
   padding-top: calc(50%*0.625 - 125px);
   padding-bottom: calc(50%*0.625 - 125px);
-  background: #2A2C2F;
-  opacity: 0.3;
+  background-color: rgba( 42, 44, 47, .3);
 }
 
 .cover__overlay:hover {
-  opacity: 0.8;
+  background-color: rgba( 42, 44, 47, .8);
 }
 
 @media (max-width: 767px) {
