@@ -1,10 +1,10 @@
-.places__website__link {
+.places__website-link {
   font-weight: normal;
   font-size: 18px;
   line-height: 122%;
   color: inherit;
 }
 
-.places__website__link:hover {
+.places__website-link:hover {
   opacity: 0.8;
 }

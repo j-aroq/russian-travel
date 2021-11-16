@@ -1,4 +1,4 @@
-.places__website__url-heading {
+.places__website-url-heading {
   margin-top: 0;
   margin-bottom: 12px;
   font-weight: normal;
@@ -10,7 +10,7 @@
 }
 
 @media (max-width: 1023px) {
-  .places__website__url-heading {
+  .places__website-url-heading {
     line-height: 100%;
   }
 }

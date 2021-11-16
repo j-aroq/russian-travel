@@ -7,6 +7,13 @@
   justify-content: flex-start;
 }
 
+@media (max-width: 1279px) {
+  .intro {
+    max-width: calc(100vw - 96px);
+    margin: 88px 0;
+  }
+}
+
 @media (max-width: 1023px) {
   .intro {
     max-width: calc(100vw - 48px);
